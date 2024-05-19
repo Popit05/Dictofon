@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Dictofin</string>
+    <string name="status">Status:</string>
+    <string name="disabled">Recording is disabled</string>
+    <string name="enabled">Recording is enabled</string>
+    <string name="name">Name to record</string>
+    <string name="loading">Loading…</string>
+</resources>
